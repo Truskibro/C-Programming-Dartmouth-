@@ -2,7 +2,14 @@
 
 This repository showcases my completion of the full **C Programming with Linux Specialization**, offered by Dartmouth College and Institut Mines-Télécom on Coursera. The specialization consists of **7 rigorous, project-based courses**, covering everything from language fundamentals to systems-level Linux tools, all in C.
 
-🔗 [View Certificates on Coursera](https://www.coursera.org/accomplishments)
+🔗 [Course 1](https://github.com/user-attachments/files/20214025/Coursera.1NCZ8W8WGJWC.pdf)
+   [Course 2](https://github.com/user-attachments/files/20214032/Coursera.6QZ47M0BX7G6.pdf)
+   [Course 3](https://github.com/user-attachments/files/20214051/Coursera.8IO6YKOZDMJ6.pdf)
+   [Course 4](https://github.com/user-attachments/files/20214056/Coursera.GHKAN934E1EJ.pdf)
+   [Course 5](https://github.com/user-attachments/files/20214057/Coursera.I34JZLF8MRO2.pdf)
+   [Course 6](https://github.com/user-attachments/files/20214060/Coursera.YCHAA388F9DN.pdf)
+   [Course 7](https://github.com/user-attachments/files/20214062/Coursera.X4PUSTOVVCJH.pdf)
+
 
 ---
 
